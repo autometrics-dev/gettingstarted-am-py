@@ -1,0 +1,6 @@
+pushgateway-enabled = false
+
+[[endpoint]]
+url = "http://localhost:8080/"
+job-name = "main"
+honor-labels = true

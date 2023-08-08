@@ -1,0 +1,4 @@
+pyrightconfig.json
+.venv/
+.autometrics/
+__pycache__/
